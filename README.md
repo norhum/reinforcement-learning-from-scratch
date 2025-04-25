@@ -1,6 +1,6 @@
 # Reinforcement Learning From Scratch
 
-Welcome to the code repository for the "Reinforcement Learning From Scratch" YouTube lecture series!
+Welcome to the code repository for the "Reinforcement Learning From Scratch" lecture series!
 
 This lecture covers the following key topics and algorithms:
 
